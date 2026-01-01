@@ -61,3 +61,5 @@ This project is built on the principle:
 
 This repository is a living consulting IP platform.
 
+
+> 🧠 Parent Consulting Lab: https://github.com/98412senthil-sketch/AI-Consulting
